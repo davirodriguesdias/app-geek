@@ -1,7 +1,9 @@
+import Header from "./Components/Header";
 
 function App() {
-  return (
+  return ( 
    <>
+     <Header/>
      <h1>Hello World!</h1>
      <p>I studying and learning REACT </p>
    </>
