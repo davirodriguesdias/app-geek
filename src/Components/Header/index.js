@@ -6,8 +6,8 @@ function Header() {
             <h1>GeekFlix</h1>
             <nav>
                 <ul>
-                    <a href="">Home</a>
-                    <a href="">Assistir</a>
+                    <a href="#">Home</a>
+                    <a href="#">Assistir</a>
                 </ul>
             </nav>
         </header>
