@@ -1,11 +1,11 @@
-import style from "./Footer.module.css"
+import styles from "./Footer.module.css"
 
 function Footer() {
     return (
-        <footer>
-            <h1 className={style.footer}>
-                Aqui ficará o rodapé
-            </h1>
+        <footer className={styles.footer}>
+            <h2>
+                GeekFlix&copy; Desenvolvido por Davi Dias
+            </h2>
         </footer>
     )
 }
